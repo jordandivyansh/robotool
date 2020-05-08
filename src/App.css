@@ -1,0 +1,26 @@
+@font-face {
+font-family: 'Robot World Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Robot World Regular'), url('Robot World.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Robot World Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Robot World Italic'), url('Robot World Italic.woff') format('woff');
+}
+
+h1{
+	padding: 0.5em;
+	text-shadow: 0 0 3px #FF0000;
+	font-family: Robot World Regular;
+	font-weight: 10;
+	font-size: xx-large;
+	border-style: outset;
+	border-radius: 5px;
+	border-width: 3px;
+	border-spacing: 5px;
+}
