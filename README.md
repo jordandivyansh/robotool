@@ -12,10 +12,10 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Screenshots
-[Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031235.png)
-[Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031255.png)
-[Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031308.png)
-[Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031313.png)
+![Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031235.png)
+![Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031255.png)
+![Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031308.png)
+![Robo](https://raw.githubusercontent.com/jordandivyansh/robo-friends/master/screenshots/Screenshot_20200523_031313.png)
 
 ### Built and Designed Using
 - HTML
