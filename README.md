@@ -23,4 +23,4 @@ You will also see any lint errors in the console.
 - JavaScript
 - React.js
 
-#### [Divyansh Kumar](https://jordandivyansh.github.io/divyanshkumar)
+#### [Divyansh Kumar](https://jordandivyansh.github.io)
