@@ -22,5 +22,6 @@ You will also see any lint errors in the console.
 - CSS
 - JavaScript
 - React.js
+- Images taken from RoboHash
 
 #### [Divyansh Kumar](https://jordandivyansh.github.io)
