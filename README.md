@@ -1,7 +1,7 @@
-#RoboFriends
+# RoboFriends
 
 ## Available Scripts
-Clone it and in the project directory, you can run:
+Clone it and in the project directory,install dependencies then you can run:
 
 ### `npm start`
 
